@@ -1,4 +1,4 @@
-**The repository is forked and further updated/maintained here:** [https://github.com/bearid/bearid-dlib]
+**The repository is forked from** [https://github.com/hypraptive/bearid]. For older tagged releases, refer to that repo.
 
 
 # bearid
