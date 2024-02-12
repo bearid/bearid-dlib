@@ -12,8 +12,8 @@
 Uses cmake flow:
 
 ```
-git clone https://github.com/hypraptive/bearid.git
-cd bearid
+git clone https://github.com/bearid/bearid-dlib.git
+cd bearid-dlib
 mkdir build
 cd build
 cmake -DDLIB_PATH=<path_to_dlib> ..
